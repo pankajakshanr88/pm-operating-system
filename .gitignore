@@ -1,0 +1,16 @@
+# Personal data
+*.credentials.json
+*.env
+session-history.txt
+audit-log.jsonl
+project-time-log.txt
+subagent-log.txt
+notion-access-log.txt
+debug/
+cache/
+paste-cache/
+telemetry/
+statsig/
+backups/
+file-history/
+shell-snapshots/
