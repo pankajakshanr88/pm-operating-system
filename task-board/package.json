@@ -1,0 +1,13 @@
+{
+  "name": "task-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local two-way task board for action-tracker.yaml",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "yaml": "*"
+  }
+}
